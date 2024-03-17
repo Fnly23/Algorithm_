@@ -27,7 +27,8 @@ class fileReader
 
                 {
                     numbers[i] = num;
-
+                    Console.WriteLine(numbers[i]);
+                    
                 }
 
             }

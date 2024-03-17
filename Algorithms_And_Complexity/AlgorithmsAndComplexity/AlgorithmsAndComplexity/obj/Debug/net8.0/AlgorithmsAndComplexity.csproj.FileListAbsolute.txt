@@ -12,3 +12,18 @@ C:\Users\i55yw\Desktop\New folder\AlgorithmsAndComplexity\AlgorithmsAndComplexit
 C:\Users\i55yw\Desktop\New folder\AlgorithmsAndComplexity\AlgorithmsAndComplexity\obj\Debug\net8.0\AlgorithmsAndComplexity.pdb
 C:\Users\i55yw\Desktop\New folder\AlgorithmsAndComplexity\AlgorithmsAndComplexity\obj\Debug\net8.0\AlgorithmsAndComplexity.genruntimeconfig.cache
 C:\Users\i55yw\Desktop\New folder\AlgorithmsAndComplexity\AlgorithmsAndComplexity\obj\Debug\net8.0\ref\AlgorithmsAndComplexity.dll
+C:\Users\i55yw\Desktop\Algorithms1\Algorithm_\Algorithms_And_Complexity\AlgorithmsAndComplexity\AlgorithmsAndComplexity\bin\Debug\net8.0\AlgorithmsAndComplexity.exe
+C:\Users\i55yw\Desktop\Algorithms1\Algorithm_\Algorithms_And_Complexity\AlgorithmsAndComplexity\AlgorithmsAndComplexity\bin\Debug\net8.0\AlgorithmsAndComplexity.deps.json
+C:\Users\i55yw\Desktop\Algorithms1\Algorithm_\Algorithms_And_Complexity\AlgorithmsAndComplexity\AlgorithmsAndComplexity\bin\Debug\net8.0\AlgorithmsAndComplexity.runtimeconfig.json
+C:\Users\i55yw\Desktop\Algorithms1\Algorithm_\Algorithms_And_Complexity\AlgorithmsAndComplexity\AlgorithmsAndComplexity\bin\Debug\net8.0\AlgorithmsAndComplexity.dll
+C:\Users\i55yw\Desktop\Algorithms1\Algorithm_\Algorithms_And_Complexity\AlgorithmsAndComplexity\AlgorithmsAndComplexity\bin\Debug\net8.0\AlgorithmsAndComplexity.pdb
+C:\Users\i55yw\Desktop\Algorithms1\Algorithm_\Algorithms_And_Complexity\AlgorithmsAndComplexity\AlgorithmsAndComplexity\obj\Debug\net8.0\AlgorithmsAndComplexity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i55yw\Desktop\Algorithms1\Algorithm_\Algorithms_And_Complexity\AlgorithmsAndComplexity\AlgorithmsAndComplexity\obj\Debug\net8.0\AlgorithmsAndComplexity.AssemblyInfoInputs.cache
+C:\Users\i55yw\Desktop\Algorithms1\Algorithm_\Algorithms_And_Complexity\AlgorithmsAndComplexity\AlgorithmsAndComplexity\obj\Debug\net8.0\AlgorithmsAndComplexity.AssemblyInfo.cs
+C:\Users\i55yw\Desktop\Algorithms1\Algorithm_\Algorithms_And_Complexity\AlgorithmsAndComplexity\AlgorithmsAndComplexity\obj\Debug\net8.0\AlgorithmsAndComplexity.csproj.CoreCompileInputs.cache
+C:\Users\i55yw\Desktop\Algorithms1\Algorithm_\Algorithms_And_Complexity\AlgorithmsAndComplexity\AlgorithmsAndComplexity\obj\Debug\net8.0\AlgorithmsAndComplexity.sourcelink.json
+C:\Users\i55yw\Desktop\Algorithms1\Algorithm_\Algorithms_And_Complexity\AlgorithmsAndComplexity\AlgorithmsAndComplexity\obj\Debug\net8.0\AlgorithmsAndComplexity.dll
+C:\Users\i55yw\Desktop\Algorithms1\Algorithm_\Algorithms_And_Complexity\AlgorithmsAndComplexity\AlgorithmsAndComplexity\obj\Debug\net8.0\refint\AlgorithmsAndComplexity.dll
+C:\Users\i55yw\Desktop\Algorithms1\Algorithm_\Algorithms_And_Complexity\AlgorithmsAndComplexity\AlgorithmsAndComplexity\obj\Debug\net8.0\AlgorithmsAndComplexity.pdb
+C:\Users\i55yw\Desktop\Algorithms1\Algorithm_\Algorithms_And_Complexity\AlgorithmsAndComplexity\AlgorithmsAndComplexity\obj\Debug\net8.0\AlgorithmsAndComplexity.genruntimeconfig.cache
+C:\Users\i55yw\Desktop\Algorithms1\Algorithm_\Algorithms_And_Complexity\AlgorithmsAndComplexity\AlgorithmsAndComplexity\obj\Debug\net8.0\ref\AlgorithmsAndComplexity.dll
