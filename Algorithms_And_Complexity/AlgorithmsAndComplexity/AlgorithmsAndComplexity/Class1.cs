@@ -14,14 +14,16 @@ class fileReader
         bool exit = false;
         while (!exit)
         {
+            // gets the directory and the file path
             string directory = Directory.GetCurrentDirectory();
 
             string filepath = Path.Combine(directory, filename);
-
+            
+            // creates a new array based on the chosen file
             string[] lines = File.ReadAllLines(filepath);
             numbers = new int[lines.Length];
 
-            for (int i = 0; i < numbers.Length; i++)
+            foreach (int i = 0; i < numbers.Length; i++)
             {
                 if (int.TryParse(lines[i], out int num))
 

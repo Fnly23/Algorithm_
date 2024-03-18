@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AlgorithmsAndComplexity")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2fcf88fbf49ce9c549db017a9d97a3ddfb103ac4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d6faad4b3ca40ae9cb6082aaf28f622f058851e")]
 [assembly: System.Reflection.AssemblyProductAttribute("AlgorithmsAndComplexity")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AlgorithmsAndComplexity")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
